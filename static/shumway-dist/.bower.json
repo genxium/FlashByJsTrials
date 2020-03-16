@@ -1,0 +1,23 @@
+{
+  "name": "shumway-dist",
+  "version": "0.11.622",
+  "main": [
+    "shuobject.js"
+  ],
+  "ignore": [],
+  "keywords": [
+    "Mozilla",
+    "Shumway"
+  ],
+  "homepage": "https://github.com/mozilla/shumway-dist",
+  "_release": "0.11.622",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.11.622",
+    "commit": "2707fef762bd33e1260b2239378beee362415f7a"
+  },
+  "_source": "https://github.com/mozilla/shumway-dist.git",
+  "_target": "^0.11.622",
+  "_originalSource": "shumway-dist",
+  "_direct": true
+}

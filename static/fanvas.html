@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <script type='text/javascript' src='./fanvas3-min.js'></script>
+    <script type='text/javascript' src='./study01_fanvas_swfData.js'></script>
+    <!-- <script type='text/javascript' src='./STUDY0205_fanvas_swfData.js'></script> -->
+  </head>
+  <body onload="init();">
+    <canvas width="992" height="567" id="testCanvas"></canvas>
+    <script>
+       function init() {
+         fanvas.play("testCanvas", swfData, 
+           {
+             cache: false, 
+             autoPlay: true,
+             onFrame: function (index) {},
+             imagePath: "./fanvas_images/"
+           }
+         );
+       }
+    </script>
+  </body>
+</html>

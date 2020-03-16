@@ -1,0 +1,14 @@
+{
+  "name": "swf2js_demo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "assert": "^1.4.1",
+    "basic-auth": "^1.0.4",
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "pug": "^2.0.0-beta5"
+  }
+}
